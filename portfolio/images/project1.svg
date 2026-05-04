@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="none" stroke="#00ffd4" stroke-width="2" opacity="0.5">
+    <circle cx="250" cy="200" r="80"/>
+    <circle cx="250" cy="200" r="60"/>
+    <circle cx="250" cy="200" r="40"/>
+    <circle cx="250" cy="200" r="20" fill="#00ffd4"/>
+    <circle cx="550" cy="200" r="80"/>
+    <circle cx="550" cy="200" r="60"/>
+    <circle cx="550" cy="200" r="40"/>
+    <circle cx="550" cy="200" r="20" fill="#00ffd4"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" fill="#00ffd4" font-family="Arial" font-size="42">Face Recognition System</text>
+</svg>

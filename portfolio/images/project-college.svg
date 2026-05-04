@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#1a365d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="none" stroke="#00ffd4" stroke-width="2" opacity="0.3">
+    <rect x="50" y="50" width="200" height="150" rx="10"/>
+    <rect x="280" y="50" width="200" height="150" rx="10"/>
+    <rect x="510" y="50" width="200" height="150" rx="10"/>
+    <rect x="50" y="250" width="150" height="120" rx="10"/>
+    <rect x="230" y="250" width="150" height="120" rx="10"/>
+    <rect x="410" y="250" width="150" height="120" rx="10"/>
+    <rect x="590" y="250" width="150" height="120" rx="10"/>
+  </g>
+  <text x="400" y="420" text-anchor="middle" fill="#00ffd4" font-family="Arial" font-size="48" font-weight="bold">College Management</text>
+</svg>

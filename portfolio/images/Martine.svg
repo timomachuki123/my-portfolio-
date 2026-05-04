@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#162447"/>
+      <stop offset="100%" stop-color="#1f4068"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="none" stroke="#ffffff" stroke-width="2">
+    <rect x="100" y="80" width="200" height="340" rx="10"/>
+    <rect x="300" y="80" width="200" height="340" rx="10"/>
+    <rect x="500" y="80" width="200" height="340" rx="10"/>
+  </g>
+  <g fill="#ffffff" opacity="0.5">
+    <rect x="120" y="100" width="160" height="100" rx="5"/>
+    <rect x="320" y="100" width="160" height="100" rx="5"/>
+    <rect x="520" y="100" width="160" height="100" rx="5"/>
+    <rect x="120" y="220" width="160" height="15" rx="3"/>
+    <rect x="320" y="220" width="160" height="15" rx="3"/>
+    <rect x="520" y="220" width="160" height="15" rx="3"/>
+  </g>
+  <text x="400" y="470" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="42">Web Development</text>
+</svg>
